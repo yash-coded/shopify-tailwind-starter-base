@@ -17,22 +17,39 @@
         "announcement-bar-0": {
           "type": "announcement",
           "settings": {
-            "text": "Welcome to our store",
+            "text": "UPTO 60% OFF",
+            "link": "shopify://collections/summer-collection"
+          }
+        },
+        "announcement_4pwmkV": {
+          "type": "announcement",
+          "settings": {
+            "text": "Free Shipping for a limited time",
+            "link": "shopify://collections/summer-collection"
+          }
+        },
+        "announcement_6twAfT": {
+          "type": "announcement",
+          "settings": {
+            "text": "Explore our summer collection",
             "link": ""
           }
         }
       },
       "block_order": [
-        "announcement-bar-0"
+        "announcement-bar-0",
+        "announcement_4pwmkV",
+        "announcement_6twAfT"
       ],
+      "custom_css": [],
       "settings": {
         "color_scheme": "",
-        "show_line_separator": true,
-        "show_social": false,
-        "auto_rotate": false,
+        "show_line_separator": false,
+        "show_social": true,
+        "auto_rotate": true,
         "change_slides_speed": 5,
         "enable_country_selector": false,
-        "enable_language_selector": false
+        "enable_language_selector": true
       }
     },
     "header": {
