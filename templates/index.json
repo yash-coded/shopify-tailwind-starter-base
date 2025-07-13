@@ -11,10 +11,34 @@
   "sections": {
     "image_banner": {
       "type": "image-banner",
+      "blocks": {
+        "heading_YUgmDh": {
+          "type": "heading",
+          "settings": {
+            "heading": "Every Piece Tells a Story",
+            "heading_size": "h1"
+          }
+        },
+        "buttons_DX6G3d": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Shop Now",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_YUgmDh",
+        "buttons_DX6G3d"
+      ],
       "settings": {
-        "image": "shopify://shop_images/Cream_and_Brown_Photographic_Beauty_Site_Launch_Website.png",
-        "image_overlay_opacity": 40,
-        "image_height": "large",
+        "image": "shopify://shop_images/segal-jewelry-NsH-CvU0deg-unsplash.jpg",
+        "image_overlay_opacity": 30,
+        "image_height": "small",
         "desktop_content_position": "bottom-center",
         "show_text_box": false,
         "desktop_content_alignment": "center",
