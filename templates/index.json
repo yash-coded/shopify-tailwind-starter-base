@@ -168,20 +168,20 @@
         "collection-0": {
           "type": "collection",
           "settings": {
-            "collection": ""
+            "collection": "deals-under-20"
           }
         },
         "product": {
           "type": "product",
           "settings": {
-            "product": "",
+            "product": "1-pair-hip-hop-rock-c-shape-grain-hollow-out-inlay-copper-zircon-18k-gold-plated-ear-studs",
             "second_image": false
           }
         },
         "collection-1": {
           "type": "collection",
           "settings": {
-            "collection": ""
+            "collection": "bracelets"
           }
         }
       },
@@ -221,9 +221,9 @@
         "column1": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
-            "link_label": "",
+            "title": "Everyday Elegance",
+            "text": "<p>Jewelry designed for your daily moments — from coffee runs to conference calls. Discover pieces that blend comfort with effortless style.</p>",
+            "link_label": "View All",
             "link": ""
           }
         },
@@ -258,12 +258,12 @@
         "image_ratio": "adapt",
         "columns_desktop": 3,
         "column_alignment": "center",
-        "background_style": "none",
+        "background_style": "primary",
         "button_label": "",
         "button_link": "",
         "color_scheme": "scheme-1",
         "columns_mobile": "1",
-        "swipe_on_mobile": false,
+        "swipe_on_mobile": true,
         "padding_top": 36,
         "padding_bottom": 36
       }
