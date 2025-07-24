@@ -104,6 +104,18 @@
             "collection": "rings"
           }
         },
+        "featured_collection_MNcfG3": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "watch"
+          }
+        },
+        "featured_collection_gfNCKf": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "brooches"
+          }
+        },
         "featured_collection_BN4WCK": {
           "type": "featured_collection",
           "settings": {
@@ -116,6 +128,8 @@
         "featured_collection_mYAtwB",
         "featured_collection_enycYd",
         "featured_collection_QqFTgn",
+        "featured_collection_MNcfG3",
+        "featured_collection_gfNCKf",
         "featured_collection_BN4WCK"
       ],
       "name": "t:sections.collection-list.presets.name",
