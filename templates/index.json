@@ -184,6 +184,12 @@
             "collection": "belly-button-ring"
           }
         },
+        "featured_collection_74FBEd": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "jewelry-set"
+          }
+        },
         "featured_collection_BN4WCK": {
           "type": "featured_collection",
           "settings": {
@@ -200,6 +206,7 @@
         "featured_collection_gfNCKf",
         "featured_collection_UWrHUz",
         "featured_collection_kDgMwy",
+        "featured_collection_74FBEd",
         "featured_collection_BN4WCK"
       ],
       "name": "t:sections.collection-list.presets.name",
