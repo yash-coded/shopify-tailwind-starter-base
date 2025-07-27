@@ -30,23 +30,6 @@
             "text_alignment_mobile": "center"
           }
         },
-        "slide_wJfFUB": {
-          "type": "slide",
-          "settings": {
-            "heading": "Image slide",
-            "heading_size": "h1",
-            "subheading": "Tell your brand's story through images",
-            "button_label": "Button label",
-            "link": "",
-            "button_style_secondary": false,
-            "box_align": "middle-center",
-            "show_text_box": true,
-            "text_alignment": "center",
-            "image_overlay_opacity": 0,
-            "color_scheme": "scheme-1",
-            "text_alignment_mobile": "center"
-          }
-        },
         "slide_HRHpTP": {
           "type": "slide",
           "settings": {
@@ -68,7 +51,6 @@
       },
       "block_order": [
         "slide_AVreWK",
-        "slide_wJfFUB",
         "slide_HRHpTP"
       ],
       "name": "t:sections.slideshow.presets.name",
@@ -81,47 +63,6 @@
         "image_behavior": "ambient",
         "show_text_below": false,
         "accessibility_info": "Slideshow about our brand"
-      }
-    },
-    "image_banner": {
-      "type": "image-banner",
-      "blocks": {
-        "heading_YUgmDh": {
-          "type": "heading",
-          "settings": {
-            "heading": "Every Piece Tells a Story",
-            "heading_size": "h1"
-          }
-        },
-        "buttons_DX6G3d": {
-          "type": "buttons",
-          "settings": {
-            "button_label_1": "Shop Now",
-            "button_link_1": "shopify://collections",
-            "button_style_secondary_1": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "heading_YUgmDh",
-        "buttons_DX6G3d"
-      ],
-      "disabled": true,
-      "settings": {
-        "image": "shopify://shop_images/segal-jewelry-NsH-CvU0deg-unsplash.jpg",
-        "image_overlay_opacity": 30,
-        "image_height": "small",
-        "desktop_content_position": "bottom-center",
-        "show_text_box": false,
-        "desktop_content_alignment": "center",
-        "color_scheme": "scheme-3",
-        "image_behavior": "none",
-        "mobile_content_alignment": "center",
-        "stack_images_on_mobile": false,
-        "show_text_below": false
       }
     },
     "featured_collection": {
@@ -426,7 +367,6 @@
   },
   "order": [
     "slideshow_WacAHE",
-    "image_banner",
     "featured_collection",
     "featured_collection_MTxnPD",
     "featured_collection_7pQbPb",
