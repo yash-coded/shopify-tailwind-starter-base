@@ -9,6 +9,62 @@
  */
 {
   "sections": {
+    "slideshow_WacAHE": {
+      "type": "slideshow",
+      "blocks": {
+        "slide_HRHpTP": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/picture_3b4bd9ae-b9ab-44d0-b475-a45aa1c2fecc.webp",
+            "heading": "Where Elegance Meets Every Day",
+            "heading_size": "h2",
+            "subheading": "Timeless jewelry designed for your story",
+            "button_label": "Shop Necklaces",
+            "link": "shopify://collections/summer-collection",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 30,
+            "color_scheme": "scheme-3",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "slide_AVreWK": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/picture_5f2b8a10-5ce0-4efd-b31c-c27eb21efad6.webp",
+            "heading": "Jewelry That Tells Your Story",
+            "heading_size": "h2",
+            "subheading": "Celebrate You This Season",
+            "button_label": "Shop",
+            "link": "shopify://collections/bracelets",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 30,
+            "color_scheme": "scheme-3",
+            "text_alignment_mobile": "center"
+          }
+        }
+      },
+      "block_order": [
+        "slide_HRHpTP",
+        "slide_AVreWK"
+      ],
+      "name": "t:sections.slideshow.presets.name",
+      "settings": {
+        "layout": "full_bleed",
+        "slide_height": "small",
+        "slider_visual": "dots",
+        "auto_rotate": true,
+        "change_slides_speed": 5,
+        "image_behavior": "ambient",
+        "show_text_below": false,
+        "accessibility_info": "Slideshow about our brand"
+      }
+    },
     "image_banner": {
       "type": "image-banner",
       "blocks": {
@@ -35,6 +91,7 @@
         "heading_YUgmDh",
         "buttons_DX6G3d"
       ],
+      "disabled": true,
       "settings": {
         "image": "shopify://shop_images/segal-jewelry-NsH-CvU0deg-unsplash.jpg",
         "image_overlay_opacity": 30,
@@ -350,6 +407,7 @@
     }
   },
   "order": [
+    "slideshow_WacAHE",
     "image_banner",
     "featured_collection",
     "featured_collection_MTxnPD",
