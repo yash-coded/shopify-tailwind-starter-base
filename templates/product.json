@@ -59,9 +59,9 @@
         "collapsible-row-0": {
           "type": "collapsible_tab",
           "settings": {
-            "heading": "Materials",
+            "heading": "Details",
             "icon": "leather",
-            "content": "{{ product.metafields.shopify[\"jewelry-material\"] | metafield_tag: field: 'label' }}",
+            "content": "{{ product.metafields.shopify[\"jewelry-type\"] | metafield_tag: field: 'label' }}{{ product.metafields.shopify[\"jewelry-material\"] | metafield_tag: field: 'label' }}{{ product.metafields.shopify[\"earring-design\"] | metafield_tag: field: 'label' }}",
             "page": ""
           }
         },
@@ -76,6 +76,7 @@
         },
         "collapsible-row-2": {
           "type": "collapsible_tab",
+          "name": "Dimensions",
           "settings": {
             "heading": "Dimensions",
             "icon": "ruler",
