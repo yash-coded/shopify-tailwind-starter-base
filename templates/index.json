@@ -30,6 +30,23 @@
             "text_alignment_mobile": "center"
           }
         },
+        "slide_wJfFUB": {
+          "type": "slide",
+          "settings": {
+            "heading": "Image slide",
+            "heading_size": "h1",
+            "subheading": "Tell your brand's story through images",
+            "button_label": "Button label",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "scheme-1",
+            "text_alignment_mobile": "center"
+          }
+        },
         "slide_HRHpTP": {
           "type": "slide",
           "settings": {
@@ -51,9 +68,9 @@
       },
       "block_order": [
         "slide_AVreWK",
+        "slide_wJfFUB",
         "slide_HRHpTP"
       ],
-      "disabled": true,
       "name": "t:sections.slideshow.presets.name",
       "settings": {
         "layout": "full_bleed",
@@ -92,6 +109,7 @@
         "heading_YUgmDh",
         "buttons_DX6G3d"
       ],
+      "disabled": true,
       "settings": {
         "image": "shopify://shop_images/segal-jewelry-NsH-CvU0deg-unsplash.jpg",
         "image_overlay_opacity": 30,
