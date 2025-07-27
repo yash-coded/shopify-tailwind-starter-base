@@ -12,24 +12,6 @@
     "slideshow_WacAHE": {
       "type": "slideshow",
       "blocks": {
-        "slide_HRHpTP": {
-          "type": "slide",
-          "settings": {
-            "image": "shopify://shop_images/picture_3b4bd9ae-b9ab-44d0-b475-a45aa1c2fecc.webp",
-            "heading": "Where Elegance Meets Every Day",
-            "heading_size": "h2",
-            "subheading": "Timeless jewelry designed for your story",
-            "button_label": "Shop Necklaces",
-            "link": "shopify://collections/summer-collection",
-            "button_style_secondary": false,
-            "box_align": "middle-center",
-            "show_text_box": false,
-            "text_alignment": "center",
-            "image_overlay_opacity": 30,
-            "color_scheme": "scheme-3",
-            "text_alignment_mobile": "center"
-          }
-        },
         "slide_AVreWK": {
           "type": "slide",
           "settings": {
@@ -47,11 +29,29 @@
             "color_scheme": "scheme-3",
             "text_alignment_mobile": "center"
           }
+        },
+        "slide_HRHpTP": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/picture_3b4bd9ae-b9ab-44d0-b475-a45aa1c2fecc.webp",
+            "heading": "Where Elegance Meets Every Day",
+            "heading_size": "h2",
+            "subheading": "Timeless jewelry designed for your story",
+            "button_label": "Shop Necklaces",
+            "link": "shopify://collections/summer-collection",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 30,
+            "color_scheme": "scheme-3",
+            "text_alignment_mobile": "center"
+          }
         }
       },
       "block_order": [
-        "slide_HRHpTP",
-        "slide_AVreWK"
+        "slide_AVreWK",
+        "slide_HRHpTP"
       ],
       "name": "t:sections.slideshow.presets.name",
       "settings": {
