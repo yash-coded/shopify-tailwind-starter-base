@@ -16,7 +16,7 @@
           "type": "slide",
           "name": "Slide 1",
           "settings": {
-            "image": "shopify://shop_images/08b60f9d-a345-41be-b83b-edc404b43d6b.jpg",
+            "image": "shopify://shop_images/Starry_Necklace_and_Delicate_Collarbone.png",
             "heading": "Jewelry That Tells Your Story",
             "heading_size": "h2",
             "subheading": "Celebrate You This Season",
@@ -35,7 +35,7 @@
           "type": "slide",
           "name": "Slide 2",
           "settings": {
-            "image": "shopify://shop_images/picture_3b4bd9ae-b9ab-44d0-b475-a45aa1c2fecc.webp",
+            "image": "shopify://shop_images/picture_ddc5eff0-83d3-448e-a85f-4ee79bcab96d.webp",
             "heading": "Where Elegance Meets Every Day",
             "heading_size": "h2",
             "subheading": "Timeless jewelry designed for your story",
@@ -62,7 +62,7 @@
         "slider_visual": "dots",
         "auto_rotate": false,
         "change_slides_speed": 5,
-        "image_behavior": "ambient",
+        "image_behavior": "none",
         "show_text_below": false,
         "accessibility_info": "Slideshow about our brand"
       }
