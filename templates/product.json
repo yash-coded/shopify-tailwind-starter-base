@@ -136,14 +136,14 @@
         "image-with-text-0": {
           "type": "heading",
           "settings": {
-            "heading": "Image with text",
+            "heading": "Shine Every Day — Effortlessly ✨",
             "heading_size": "h1"
           }
         },
         "image-with-text-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "text": "<p>Our jewelry is designed to turn everyday moments into something special. Whether you're dressing up or keeping it casual, our pieces add just the right touch of elegance. Handpicked styles, timeless shine, and all-day comfort — meet your new favorite accessories.</p>",
             "text_style": "body"
           }
         }
@@ -153,6 +153,7 @@
         "image-with-text-1"
       ],
       "settings": {
+        "image": "{{ product.featured_image }}",
         "height": "small",
         "desktop_image_width": "medium",
         "layout": "text_first",
