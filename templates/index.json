@@ -53,6 +53,7 @@
         "slide_AVreWK",
         "slide_HRHpTP"
       ],
+      "disabled": true,
       "name": "t:sections.slideshow.presets.name",
       "settings": {
         "layout": "full_bleed",
@@ -91,7 +92,6 @@
         "heading_YUgmDh",
         "buttons_DX6G3d"
       ],
-      "disabled": true,
       "settings": {
         "image": "shopify://shop_images/segal-jewelry-NsH-CvU0deg-unsplash.jpg",
         "image_overlay_opacity": 30,
