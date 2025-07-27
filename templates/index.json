@@ -14,6 +14,7 @@
       "blocks": {
         "slide_AVreWK": {
           "type": "slide",
+          "name": "Slide 1",
           "settings": {
             "image": "shopify://shop_images/08b60f9d-a345-41be-b83b-edc404b43d6b.jpg",
             "heading": "Jewelry That Tells Your Story",
@@ -32,6 +33,7 @@
         },
         "slide_HRHpTP": {
           "type": "slide",
+          "name": "Slide 2",
           "settings": {
             "image": "shopify://shop_images/picture_3b4bd9ae-b9ab-44d0-b475-a45aa1c2fecc.webp",
             "heading": "Where Elegance Meets Every Day",
