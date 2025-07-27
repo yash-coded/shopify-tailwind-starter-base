@@ -14,32 +14,16 @@
     "announcement-bar": {
       "type": "announcement-bar",
       "blocks": {
-        "announcement-bar-0": {
-          "type": "announcement",
-          "settings": {
-            "text": "UPTO 60% OFF",
-            "link": "shopify://collections/summer-collection"
-          }
-        },
         "announcement_4pwmkV": {
           "type": "announcement",
           "settings": {
             "text": "Free Shipping for a limited time",
-            "link": "shopify://collections/summer-collection"
-          }
-        },
-        "announcement_6twAfT": {
-          "type": "announcement",
-          "settings": {
-            "text": "Explore our summer collection",
-            "link": ""
+            "link": "shopify://collections/all"
           }
         }
       },
       "block_order": [
-        "announcement-bar-0",
-        "announcement_4pwmkV",
-        "announcement_6twAfT"
+        "announcement_4pwmkV"
       ],
       "custom_css": [],
       "settings": {
