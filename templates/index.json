@@ -33,7 +33,7 @@
         "slide_AVreWK": {
           "type": "slide",
           "settings": {
-            "image": "shopify://shop_images/picture_5f2b8a10-5ce0-4efd-b31c-c27eb21efad6.webp",
+            "image": "shopify://shop_images/08b60f9d-a345-41be-b83b-edc404b43d6b.jpg",
             "heading": "Jewelry That Tells Your Story",
             "heading_size": "h2",
             "subheading": "Celebrate You This Season",
@@ -56,7 +56,7 @@
       "name": "t:sections.slideshow.presets.name",
       "settings": {
         "layout": "full_bleed",
-        "slide_height": "adapt_image",
+        "slide_height": "small",
         "slider_visual": "dots",
         "auto_rotate": false,
         "change_slides_speed": 5,
