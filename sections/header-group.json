@@ -20,10 +20,18 @@
             "text": "Free Shipping for a limited time",
             "link": "shopify://collections/all"
           }
+        },
+        "announcement_EXpb9m": {
+          "type": "announcement",
+          "settings": {
+            "text": "15% off  storewide",
+            "link": ""
+          }
         }
       },
       "block_order": [
-        "announcement_4pwmkV"
+        "announcement_4pwmkV",
+        "announcement_EXpb9m"
       ],
       "custom_css": [],
       "settings": {
